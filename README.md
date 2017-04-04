@@ -9,6 +9,7 @@ Repository dedicated to android forum related material.
 
 #### Books
 1. Android Programming: The Big Nerd Ranch Guide 2nd edition or 3rd edition
+2. Head First Android Development
 
 #### Online Courses
 1. Several (free) courses at Udacity - https://www.udacity.com/courses/android
